@@ -1,0 +1,76 @@
+﻿  Moc'ing Calibration.h...
+  Moc'ing ChooseDialog.h...
+  Moc'ing Connect.h...
+  Moc'ing HandeyeCalib.h...
+  Moc'ing ImageShow.h...
+  Moc'ing ImageThread.h...
+  Moc'ing Matching.h...
+  Moc'ing Models.h...
+  Moc'ing Simulate.h...
+  Moc'ing halconImage.h...
+  Moc'ing mainWidget.h...
+  Moc'ing widgetscens.h...
+  Moc'ing widgetview.h...
+  Uic'ing Ui\2dimageshow.ui...
+  Uic'ing Ui\connect.ui...
+  Uic'ing Ui\halconimage.ui...
+  Uic'ing Ui\handeyecalib.ui...
+  Rcc'ing pixmap.qrc...
+  Moc'ing QtAdsOperate.h...
+  Calibration.cpp
+Calibration.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\Calibration.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ChooseDialog.cpp
+  Connect.cpp
+Connect.cpp(84): warning C4100: 'arg1': unreferenced formal parameter
+Connect.cpp(92): warning C4100: 'arg1': unreferenced formal parameter
+Connect.cpp(100): warning C4100: 'arg1': unreferenced formal parameter
+Connect.cpp(108): warning C4100: 'arg1': unreferenced formal parameter
+  HandeyeCalib.cpp
+  ImageShow.cpp
+ImageShow.cpp(630): warning C4100: 'arg1': unreferenced formal parameter
+  ImageThread.cpp
+  Matching.cpp
+Matching.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Matching.cpp(70): warning C4189: 'layWed': local variable is initialized but not referenced
+  Models.cpp
+Models.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  moc_Calibration.cpp
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\release\../Calibration.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  moc_ChooseDialog.cpp
+  moc_Connect.cpp
+  moc_halconImage.cpp
+  moc_HandeyeCalib.cpp
+  moc_ImageShow.cpp
+  moc_ImageThread.cpp
+  moc_mainWidget.cpp
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\release\../mainWidget.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\Calibration.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  moc_Matching.cpp
+  moc_Models.cpp
+  moc_QtAdsOperate.cpp
+  moc_Simulate.cpp
+  Generating Code...
+  Compiling...
+  moc_widgetscens.cpp
+  moc_widgetview.cpp
+  Simulate.cpp
+Simulate.cpp(66): warning C4100: 'attr': unreferenced formal parameter
+Simulate.cpp(66): warning C4100: 'a': unreferenced formal parameter
+Simulate.cpp(66): warning C4100: 'yp': unreferenced formal parameter
+Simulate.cpp(66): warning C4100: 'xp': unreferenced formal parameter
+  halconImage.cpp
+  main.cpp
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\mainWidget.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\Calibration.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  mainWidget.cpp
+mainWidget.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\mainWidget.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\sesa214556\source\repos\hhqtads\camtongyonghalcon11.1(huahen)\Calibration.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+mainWidget.cpp(472): warning C4100: 'type': unreferenced formal parameter
+mainWidget.cpp(485): warning C4060: switch statement contains no 'case' or 'default' labels
+  widgetscens.cpp
+  widgetview.cpp
+  Generating Code...
+  qrc_pixmap.cpp
+  Cameraclient.vcxproj -> C:\Users\sesa214556\source\repos\HHQtADS\CamTongYongHalcon11.1(huahen)\release\Cameraclient.exe

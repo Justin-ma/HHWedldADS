@@ -1,0 +1,75 @@
+﻿  Moc'ing Calibration.h...
+  Moc'ing ChooseDialog.h...
+  Moc'ing Connect.h...
+  Moc'ing HandeyeCalib.h...
+  Moc'ing ImageShow.h...
+  Moc'ing ImageThread.h...
+  Moc'ing Matching.h...
+  Moc'ing Models.h...
+  Moc'ing Simulate.h...
+  Moc'ing halconImage.h...
+  Moc'ing mainWidget.h...
+  Moc'ing ImageView\widgetscens.h...
+  Moc'ing ImageView\widgetview.h...
+  Rcc'ing pixmap.qrc...
+  Uic'ing Ui\2dimageshow.ui...
+  Uic'ing Ui\2dimageshow1.ui...
+  Uic'ing Ui\connect.ui...
+  Uic'ing Ui\halconimage.ui...
+  Uic'ing Ui\handeyecalib.ui...
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of qrc_pixmap.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\qrc_pixmap.cpp, .\GeneratedFiles\qrc_pixmap.cpp.
+  Calibration.cpp
+  ChooseDialog.cpp
+  Connect.cpp
+  qrc_pixmap.cpp
+Calibration.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\02camtongyonghalcon11.1\Calibration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Calibration.cpp)
+  HandeyeCalib.cpp
+Connect.cpp(84): warning C4100: “arg1”: 未引用的形参
+Connect.cpp(92): warning C4100: “arg1”: 未引用的形参
+Connect.cpp(100): warning C4100: “arg1”: 未引用的形参
+Connect.cpp(108): warning C4100: “arg1”: 未引用的形参
+  ImageShow.cpp
+  ImageThread.cpp
+  Matching.cpp
+Matching.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Matching.cpp(70): warning C4189: “layWed”: 局部变量已初始化但不引用
+  Models.cpp
+Models.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Simulate.cpp
+  halconImage.cpp
+ImageShow.cpp(630): warning C4100: “arg1”: 未引用的形参
+Simulate.cpp(66): warning C4100: “attr”: 未引用的形参
+Simulate.cpp(66): warning C4100: “a”: 未引用的形参
+Simulate.cpp(66): warning C4100: “yp”: 未引用的形参
+Simulate.cpp(66): warning C4100: “xp”: 未引用的形参
+  main.cpp
+d:\02camtongyonghalcon11.1\mainWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+  mainWidget.cpp
+mainWidget.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\02camtongyonghalcon11.1\mainWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainWidget.cpp)
+  widgetscens.cpp
+d:\02camtongyonghalcon11.1\Calibration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+d:\02camtongyonghalcon11.1\Calibration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainWidget.cpp)
+  widgetview.cpp
+mainWidget.cpp(472): warning C4100: “type”: 未引用的形参
+mainWidget.cpp(485): warning C4060: switch 语句没有包含“case”或“default”标签
+  moc_Calibration.cpp
+d:\02camtongyonghalcon11.1\generatedfiles\release\../../Calibration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_Calibration.cpp)
+  moc_ChooseDialog.cpp
+  moc_Connect.cpp
+  moc_HandeyeCalib.cpp
+  moc_ImageShow.cpp
+  moc_ImageThread.cpp
+  moc_Matching.cpp
+  moc_Models.cpp
+  moc_Simulate.cpp
+  moc_halconImage.cpp
+  moc_mainWidget.cpp
+d:\02camtongyonghalcon11.1\generatedfiles\release\../../mainWidget.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_mainWidget.cpp)
+  moc_widgetscens.cpp
+  moc_widgetview.cpp
+  qrc_pixmap.cpp
+d:\02camtongyonghalcon11.1\Calibration.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 .\GeneratedFiles\Release\moc_mainWidget.cpp)
+release\qrc_pixmap.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Cameraclient.vcxproj -> D:\02CamTongYongHalcon11.1\release\Cameraclient.exe

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/export.png</file>
+        <file>images/import.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/write.png</file>
+        <file>images/capture.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/record.png</file>
+        <file>images/stopImg.png</file>
+        <file>images/cursor.png</file>
+        <file>images/fitToView.png</file>
+        <file>images/hand.png</file>
+        <file>images/saveImage.png</file>
+        <file>images/next.png</file>
+        <file>images/openData.png</file>
+        <file>images/previous.png</file>
+        <file>images/3D.png</file>
+        <file>images/zoomIn.png</file>
+        <file>images/zoomOut.png</file>
+    </qresource>
+</RCC>
